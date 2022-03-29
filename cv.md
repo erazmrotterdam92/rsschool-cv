@@ -11,7 +11,7 @@ GitHub: erazmrotterdam92
 Discord: Pavel Egorov(@erazmrotterdam92)
 ***
 ### About Myself:
-After graduation from the university, the first time I worked as a teacher of physics and mathematics. One year later I founded of the International Chess School "Black&White". I have a lot extra free time, which I spend learning Frontend Development. My main feature is responsibility. 
+After graduation from the university, the first time I worked as a teacher of physics and mathematics. One year later I founded of the International Chess School "Black&White".  I have a lot extra free time, which I spend learning Frontend Development.  My main feature is responsibility. 
 ### Skills
 * HTML
 
